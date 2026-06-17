@@ -8,3 +8,6 @@ node_modules/
 .superpowers/
 .claude/
 docs/superpowers/
+
+# Local-only archive (personal notes/summaries — never tracked or pushed)
+Archive/
